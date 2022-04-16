@@ -4,7 +4,7 @@ Clone and enjoy!! ☺️
 
 ## How does it work:
 
-- I've used a fork of [react-native-splash-screen](git+https://github.com/kirillpisarev/react-native-splash-screen).
+- I've used a fork of [react-native-splash-screen](https://github.com/kirillpisarev/react-native-splash-screen).
 - Create a `launch_screen.xml` file in `res` and add your images here.
 - Create a `anim` folder for your animation in `res` and add your animation there.
 - In the `MainActivity.java`, add this:
